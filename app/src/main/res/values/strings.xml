@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">play_vedio</string>
+
+
+    <string name="btn">Ok</string>
+    <string name="press">press</string>
+    <string name="textview">TextView</string>
+    <string-array name="index">
+        <item>حكايات السندباد</item>
+        <item>الجزيرة المتحركة و الخيول البحرية</item>
+        <item>وادي الالماس</item>
+        <item>الغول الاسود</item>
+        <item>السندباد يدفن حيا</item>
+        <item>شيخ البحر</item>
+        <item>رحلة تهرية في الكهف</item>
+        <item>مقبرة الافيال</item>
+    </string-array>
+</resources>
